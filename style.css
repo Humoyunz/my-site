@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: #eaf6ff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #004aad;
+  margin-top: 40px;
+}
+
+img {
+  width: 400px;
+  height: auto;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
